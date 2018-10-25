@@ -1,0 +1,59 @@
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\PG.exe.config
+D:\Thesis\Codes\Misc\PG\PG\obj\Debug\PG.csprojResolveAssemblyReference.cache
+D:\Thesis\Codes\Misc\PG\PG\obj\Debug\PG.Properties.Resources.resources
+D:\Thesis\Codes\Misc\PG\PG\obj\Debug\PG.csproj.GenerateResource.Cache
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Accord.dll.config
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\PG.exe
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\PG.pdb
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Accord.dll
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Accord.Math.Core.dll
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Accord.Math.dll
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Accord.Statistics.dll
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Microsoft.Kinect.dll
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Accord.xml
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Accord.Math.xml
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Accord.Math.Core.xml
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Accord.Statistics.xml
+D:\Thesis\Codes\Misc\PG\PG\bin\Debug\Microsoft.Kinect.xml
+D:\Thesis\Codes\Misc\PG\PG\obj\Debug\PG.exe
+D:\Thesis\Codes\Misc\PG\PG\obj\Debug\PG.pdb
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\PG.exe.config
+D:\Thesis\Codes\Thesis-Git\PG\PG\obj\Debug\PG.exe
+D:\Thesis\Codes\Thesis-Git\PG\PG\obj\Debug\PG.pdb
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Accord.dll.config
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\PG.exe
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\PG.pdb
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Accord.dll
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Accord.Math.Core.dll
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Accord.Math.dll
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Accord.Statistics.dll
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Microsoft.Kinect.dll
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Accord.xml
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Accord.Math.xml
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Accord.Math.Core.xml
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Accord.Statistics.xml
+D:\Thesis\Codes\Thesis-Git\PG\PG\bin\Debug\Microsoft.Kinect.xml
+D:\Thesis\Codes\Thesis-Git\PG\PG\obj\Debug\PG.csprojResolveAssemblyReference.cache
+D:\Thesis\Codes\Thesis-Git\PG\PG\obj\Debug\PG.GestureForm.resources
+D:\Thesis\Codes\Thesis-Git\PG\PG\obj\Debug\PG.Properties.Resources.resources
+D:\Thesis\Codes\Thesis-Git\PG\PG\obj\Debug\PG.csproj.GenerateResource.Cache
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\PG.exe.config
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\obj\Debug\PG.exe
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\obj\Debug\PG.pdb
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Accord.dll.config
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\PG.exe
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\PG.pdb
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Accord.dll
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Accord.Math.Core.dll
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Accord.Math.dll
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Accord.Statistics.dll
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Accord.xml
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Accord.Math.xml
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Accord.Math.Core.xml
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Accord.Statistics.xml
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\obj\Debug\PG.csprojResolveAssemblyReference.cache
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\obj\Debug\PG.GestureForm.resources
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\obj\Debug\PG.Properties.Resources.resources
+C:\Users\Jubayer Al Mahmud\Desktop\BSc Thesis\New folder\Thesis-Git-master\PG\PG\obj\Debug\PG.csproj.GenerateResource.Cache
